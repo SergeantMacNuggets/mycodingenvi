@@ -1,0 +1,22 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper"
+Plug 'tpope/vim-fugitive'
+
+"Lightline"
+Plug 'itchyny/lightline.vim'
+
+"NERDTree"
+Plug 'preservim/nerdtree'
+
+"Coc Nvim"
+Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'npm ci'}
+
+
+"Ayu-Vim"
+Plug 'Luxed/ayu-vim'
+
+"vim-base16-lightline"
+Plug 'daviesjamie/vim-base16-lightline'
+
+call plug#end()
