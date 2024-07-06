@@ -82,9 +82,9 @@ set mouse=a
 
 "Ayu-Vim"
 set termguicolors
-" set background=dark
-" let g:ayucolor="dark"
-" colorscheme ayu
+"set background=dark
+"let g:ayucolor="dark"
+"colorscheme ayu
 
 "Eldar Colorscheme"
 "------------------------
